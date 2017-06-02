@@ -20,7 +20,6 @@ gulp init
 ```
 * Open the 'style.css' folder in the root of the child theme and edit the template line to match the theme that you are using.
 ```
-
 Template:    {Your Theme Name Here, e.g. twentyseventeen}
 ```
 ### Usage ###
