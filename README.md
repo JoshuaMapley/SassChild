@@ -41,4 +41,4 @@ gulp watch
 
 Make sure you remove the git repository from this theme after cloning it, otherwise when you commit it your assets folder will be ignored and that'll just be a mess... Other than that, Have fun!
 
-#####Not an official product of Sass, Just a handy little project to assist development with themes in WordPress.
+**Disclaimer: Not an official product of Sass, Just a handy little project to assist development with themes in WordPress.**
