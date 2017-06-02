@@ -9,7 +9,7 @@ This is a brief guide going over how to set up, and how to use this Sass Child T
 
 ```
 cd myProject/wp-content/themes/
-git clone https://Mapleish@bitbucket.org/Mapleish/sasschild.git
+git clone https://github.com/JoshuaMapley/SassChild.git
 cd sasschild/
 ```
 
