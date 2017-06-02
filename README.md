@@ -8,7 +8,6 @@ This is a brief guide going over how to set up, and how to use this Sass Child T
 * clone the repository into your WordPress Themes folder, and navigate to it:
 
 ```
-
 cd myProject/wp-content/themes/
 git clone https://Mapleish@bitbucket.org/Mapleish/sasschild.git
 cd sasschild/
@@ -16,7 +15,6 @@ cd sasschild/
 
 * run the following commands to install the themes dependencies, and create the distribution folder.
 ```
-
 npm install
 gulp init
 ```
@@ -29,7 +27,6 @@ Template:    {Your Theme Name Here, e.g. twentyseventeen}
 
 * Navigate to your theme directory and run one of the following commands.
 ```
-
 cd myProject/wp-content/themes/sasschild
 gulp styles
 gulp scripts
