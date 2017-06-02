@@ -1,0 +1,6 @@
+//Groups together all the stylesheets in the 'styles' folder to get pumped through gulp.
+@import "common/global.scss";
+@import "common/variables.scss";
+@import "layouts/default.scss";
+
+//To add new stylesheets to be compiled, simply follow the same format as the ones already called in. e.g. @import "common/yourstyles.scss"
